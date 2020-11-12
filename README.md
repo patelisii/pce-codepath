@@ -4,7 +4,7 @@
 
 Submitted by: **Patrick Elisii**
 
-Time spent: **5** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
